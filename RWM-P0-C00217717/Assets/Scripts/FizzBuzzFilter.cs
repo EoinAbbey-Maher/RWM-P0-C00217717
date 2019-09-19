@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CubeFilter : MonoBehaviour
+public class FizzBuzzFilter : MonoBehaviour
 {
    public static int fizzBuzz(int t_int)
     {
